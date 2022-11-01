@@ -29,7 +29,7 @@
     "babel-preset-react": "^6.23.0",
     "babel-preset-stage-0": "^6.22.0",
     "bootstrap-sass": "^3.3.4",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-ruby-sass": "^2.1.1",
     "gulp-util": "^3.0.8",
